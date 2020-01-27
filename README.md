@@ -1,6 +1,8 @@
 # line-filter README
 
-You can filter lines in an active file by command pallette and go to the selected line.
+You can filter lines in an active file by command palette and go to the selected line.
+
+![](./images/demo.gif)
 
 ## Release Notes
 
