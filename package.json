@@ -3,7 +3,7 @@
 	"displayName": "line-filter",
 	"description": "filter lines in an active file by command palette",
 	"icon": "images/icon.png",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "stucci",
 	"repository": {
 		"type": "git",
