@@ -1,5 +1,5 @@
 # line-filter
 
-You can filter lines in an active file by command palette and go to the selected line.
+You can filter the lines within a file using the command palette and move to the selected line.
 
 ![](./images/demo.gif)
